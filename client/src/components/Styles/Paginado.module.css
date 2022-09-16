@@ -1,0 +1,23 @@
+.ul{
+    text-align: left;
+    display:inline-block;
+    margin-left: 31%;
+
+}
+.li{
+    list-style: none;
+    display:inline-block;
+    margin-left: 40px;
+   
+}
+.pageNumbers{
+    margin-left: 5px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border-radius:5px;
+}
+.pageNumbers:hover{
+    background-color:red
+    
+}

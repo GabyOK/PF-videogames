@@ -1,0 +1,24 @@
+.container{
+    background-image:url('../Img/personajes.webp');
+    height:600px;
+    width: 100%;
+}
+.input{
+    margin-top:100px ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 340px;
+    height:28px;
+    border-radius: 20px;
+    text-align:center;
+    margin-left: 600px;
+}
+.btn{
+    width: 78px;
+    height: 35px;
+    border-radius: 5px;
+    margin-left: 3px;
+}
+.btn:hover{
+    background:darkgray;
+}

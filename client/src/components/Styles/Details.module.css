@@ -1,0 +1,66 @@
+.contenedor{
+    height: 140vh;
+    width: 200vh;
+    background-image:url('../Img/tomraider.jpg');
+    padding-top:50px
+}
+.container{
+    background:black;
+    opacity: 0.8;
+    width : 60%;
+    color:white;
+    margin-left :auto ;
+    margin-right:auto;
+    padding-top: 10px;
+    text-align: center;
+    border-radius:20px;
+}
+
+.name{
+    color:red ;
+    padding-top: -4px;
+    text-transform: uppercase;
+}
+
+.img{
+    width: 500px;
+    height:350px;
+    border-radius:10px solid white;
+}
+.image{
+    width: 500px;
+    height:350px;
+    
+}
+.ratiing{
+ margin-top: 5px;
+ color:white;
+}
+.rating{
+margin-top: 5px;
+
+}
+.puntaje{
+color:white;
+margin-top: -15px;
+font-size: 18px;
+}
+
+.btn{
+    position: relative;
+    float: left;
+    bottom: 930px;
+    margin-left:-25%;
+    width: 10%;
+   }
+        
+  .btn:hover{
+    background:floralwhite;
+  } 
+ .regresar{
+    position: relative;
+    float: left;
+    bottom: 750px;
+    margin-left:-25%;
+    width: 10%;
+ } 
